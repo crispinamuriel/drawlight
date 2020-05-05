@@ -7,17 +7,19 @@ import './App.css';
 
 function App() {
   return (
-    <div className="layer">
-      <header className="App-header">
-        <Header />
-      </header>
-      <div className="inner-container">
-        <div className="container">
-          <Info />
-          <Media />
-        </div>
-        <div className="footer">
-          <Footer />
+    <div>
+      <div className="layer">
+        <header className="App-header">
+          <Header />
+        </header>
+        <div className="inner-container">
+          <div className="container">
+            <Info />
+            <Media />
+          </div>
+          <div className="footer">
+            <Footer />
+          </div>
         </div>
       </div>
     </div>
