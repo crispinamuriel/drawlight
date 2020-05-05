@@ -6,11 +6,11 @@ export default function Media() {
   return (
     <div>
       <div className="iPad">
-        <img src={ipad} alt="iPhone 11 Pro and 12.9-inch ipad Pro" width="700px"/>
+        <img src={ipad} alt="iPhone 11 Pro and 12.9-inch ipad Pro" width="800px"/>
 
       </div>
       <div className="iPhone">
-        <img src={iphone} alt ="iPhone"  width="330px"/>
+        <img src={iphone} alt ="iPhone"  width="360px"/>
       </div>
     </div>
 

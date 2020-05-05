@@ -7,11 +7,11 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <div className="layer">
-        <header className="App-header">
-          <Header />
-        </header>
+    <div className="layer">
+      <header className="App-header">
+        <Header />
+      </header>
+      <div className="inner-container">
         <div className="container">
           <Info />
           <Media />
