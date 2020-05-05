@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="outer-container">
       <div className="layer">
         <header className="App-header">
           <Header />

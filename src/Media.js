@@ -4,7 +4,7 @@ import iphone from './assets/dribbbleoneplusmockup.png';
 
 export default function Media() {
   return (
-    <div>
+    <div className="media">
       <div className="iPad">
         <img src={ipad} alt="iPhone 11 Pro and 12.9-inch ipad Pro" width="800px"/>
 
