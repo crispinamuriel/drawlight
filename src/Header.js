@@ -1,10 +1,11 @@
 import React from 'react';
+import logo from "./assets/logo-drawligjht@2x.png";
 
 export default function Header() {
   return (
-
-      <img src="./assets/logo-drawligjht@2x.png" alt="drawlight-feather-logo"/>
-
+    <div className="text-center">
+      <img src={logo} alt="drawlight-feather-logo" />
+    </div>
   )
 }
 
