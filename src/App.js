@@ -8,6 +8,7 @@ import './App.css';
 function App() {
   return (
     <div className="outer-container">
+      <div className="background-image"></div>
       <div className="layer">
         <header className="App-header">
           <Header />
