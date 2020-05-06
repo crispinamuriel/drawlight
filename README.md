@@ -1,3 +1,18 @@
+# Drawlight Web App
+
+## Some details about this app
+  * Produced by [Early Adopter](https://early-adopter.com/) a subsidary
+- Designed by Leonardo Santana
+- React components designed and implemented by Crispina Muriel
+
+## React Component Design Schema
+- index
+  - App
+    - Header
+    - Info
+    - Media
+    - Footer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
