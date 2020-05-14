@@ -5,12 +5,14 @@ export default function Info() {
     <div className="info">
       <div className="text-container">
         <h1>
-          Join Drawlight for <br></br>Beta Testing
+          Join Drawlight for <br />
+          Beta Testing
         </h1>
         <div className="tall">
           <p>
             Make every space your canvas! With 3D art and Augmented Reality
-            brushes and textures.<br></br> Enjoy it with friends or by yourself.
+            brushes and textures.
+            <br /> Enjoy it with friends or by yourself.
           </p>
         </div>
         <hr className="tall"></hr>

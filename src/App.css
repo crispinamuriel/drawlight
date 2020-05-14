@@ -292,7 +292,7 @@ body {
 }
 
 .info {
-  margin-left: 100px;
+  margin-left: 10%;
   width: 40%;
 }
 
@@ -313,7 +313,7 @@ a:visited {
 }
 
 .text {
-  width: 400px;
+  width: 40%;
 }
 
 button {
@@ -358,6 +358,7 @@ h1 {
 
 .text-container {
   font-family: 'Montserrat', sans-serif;
+  max-height: 700px;
 }
 
 .footer {
