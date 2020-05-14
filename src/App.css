@@ -288,11 +288,12 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  flex-flow: wrap;
+
 }
 
 .info {
   margin-left: 100px;
+  width: 50%;
 }
 
 .iPad {
@@ -376,4 +377,5 @@ h1 {
 
 .media {
   position: relative;
+  width: 50%;
 }
