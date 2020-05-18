@@ -10,7 +10,7 @@ export default function Media() {
 
       </div>
       <div className="iPhone">
-        <img src={iphone} alt ="iPhone"  width="55%"/>
+        <img className="phone" src={iphone} alt ="iPhone"  width="55%"/>
       </div>
     </div>
 
