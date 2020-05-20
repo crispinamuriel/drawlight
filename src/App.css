@@ -339,7 +339,7 @@ button:hover {
 }
 
 .inner-container {
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 .line {
@@ -441,6 +441,67 @@ h1 {
 
   .iPhone {
     top: 63%;
+  }
+
+}
+
+@media screen and (orientation:landscape) and (min-device-width: 319px) and (max-device-width: 820px) {
+
+  /* For mobile phones landscape*/
+  .backround-image {
+    max-width: 400px;
+  }
+
+  .App-header {
+    max-height: 10vh;
+  }
+
+  .logo {
+    max-width: 45px;
+  }
+
+
+  h1 {
+    font-size: 3vw;
+  }
+
+  .info {
+    max-width: 300px;
+
+  }
+
+  .text-container {
+    font-size: 1vw;
+  }
+
+  .container {
+    flex-wrap: nowrap;
+    max-height: 300px;
+    font-size: 1vw;
+  }
+
+  .tall {
+    margin-top: 4px;
+    font-size: 2vw;
+  }
+
+  button {
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 20px 42px;
+  }
+  a{
+    margin-top: 4px;
+  }
+
+  .media {
+    max-width: 40vw;
+    margin-left: 40px;
+  }
+
+  .footer {
+    right: 35%;
+    z-index: 2;
   }
 
 }
